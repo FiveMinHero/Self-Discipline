@@ -1,0 +1,34 @@
+.textBackgroundColor {
+    background-color: lightgrey;
+}
+
+.textChange {
+    font-size: 40px;
+    font-style: italic;
+    font-family: serif;
+
+
+}
+
+.textChangeList {
+    font-size: 25px;
+    font-style: italic;
+    font-family: serif;
+
+}
+
+.textChangeLast {
+    font-size: 30px;
+    font-style: italic;
+    font-family: serif;
+
+}
+
+.mainTitle {
+    font-size: 50px;
+}
+
+.waysTitle {
+    font-size: 25px;
+
+}
