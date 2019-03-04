@@ -1,7 +1,12 @@
 .textBackgroundColor {
     background-color: lightgrey;
 }
-
+.names{
+    color: white;
+}
+#names{
+    color: white;
+}
 .textChange {
     font-size: 40px;
     font-style: italic;
